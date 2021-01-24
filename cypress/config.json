@@ -1,0 +1,15 @@
+{
+  "env": {
+    "urls": {
+      "login": "https://www.pecodesoftware.com/qa-portal/greet.php"
+    },
+    "user": {
+      "username": "email@gmail.com",
+      "password": "password"
+    },
+    "invalid_user": {
+      "username": "invalid_email@gmail.com",
+      "password": "invalid_password"
+    }
+  }
+}
